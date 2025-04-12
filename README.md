@@ -7,7 +7,7 @@ A PHP-based web application for efficient management of: Inventory tracking, sal
   ##  Key Features
 - **Multi-user access control**
 - **Real-time stock monitoring**
-- **Automated expiry alerts** ⏰
-- **Sales analytics dashboard** 📊
+- **Automated expiry alerts** 
+- **Sales analytics dashboard** 
 - **Patient prescription history**
 - **Supplier order management**
